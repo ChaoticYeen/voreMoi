@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VoreMoi": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
